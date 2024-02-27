@@ -5,7 +5,7 @@
             "name": "TXT",
             "type": 0,
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/labbbirder/IPTV/main/index.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "epg": "https://epg.112114.xyz/epginfo",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
